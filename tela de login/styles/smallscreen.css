@@ -1,0 +1,12 @@
+main {
+    align-content: center;
+}
+
+.right {
+    min-width: 90%;
+    min-height: 40%;
+}
+
+.left img {
+    max-width: 90%;
+}
